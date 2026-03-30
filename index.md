@@ -3,7 +3,7 @@ permalink: /
 ---
 # Tibor's blog
 
-[Home](README.md) | [About this blog](about.md)
+[Home](index.md) | [About this blog](about.md)
 
 ---
 

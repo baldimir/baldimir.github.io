@@ -1,6 +1,6 @@
 # Quarkus Flow is Now Part of the Quarkus Platform
 
-[Home](../../README.md) | [About this blog](../../about.md)
+[Home](../../index.md) | [About this blog](../../about.md)
 
 Starting with Quarkus 3.34, **Quarkus Flow** is officially part of the **Quarkus Platform**.
 
