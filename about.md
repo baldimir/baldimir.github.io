@@ -10,7 +10,6 @@ Some links about me:<br>
 <br>
 This is me:<br>
 <img src="./images/profilepic.jpg" alt="" width="300">
-
----
+<hr>
 
 © 2026 Tibor Zimányi. All rights reserved.

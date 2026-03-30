@@ -5,6 +5,6 @@
 TODO - pridaj odkazy na články
 
 
----
+<hr>
 
 © 2026 Tibor Zimányi. All rights reserved.
