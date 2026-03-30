@@ -7,7 +7,9 @@ Welcome to my blog! My name is Tibor Zimányi. I am a human being living in Slov
 Some links about me:<br>
 <a href="https://github.com/baldimir" target="_blank">GitHub profile</a><br>
 <a href="https://sk.linkedin.com/in/tibor-zim%C3%A1nyi-a0bbb430" target="_blank">LinkedIn profile</a><br>
-
+<br>
+This is me:<br>
+<img src="./images/profilepic.jpg" alt="" width="300">
 
 ---
 
